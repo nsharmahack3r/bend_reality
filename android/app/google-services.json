@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159034783184",
+    "project_id": "bend-reality",
+    "storage_bucket": "bend-reality.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159034783184:android:169f7d2bc0ebe7f635b5d5",
+        "android_client_info": {
+          "package_name": "com.dartbucket.bend_reality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159034783184-uuj6q45dnuthg2hi0f4a6odv0g50pn5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcMC0b9lH7ReuPcXSMnyHxzGtiwcGfocU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159034783184-uuj6q45dnuthg2hi0f4a6odv0g50pn5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
